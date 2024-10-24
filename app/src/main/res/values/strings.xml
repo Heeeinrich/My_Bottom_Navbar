@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Bottom Navbar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order">Order Ticket</string>
+    <string name="buy">Buy Ticket</string>
+    <string name="welcome">Welcome to Home Page</string>
+    <string name="explore">Explore Destination</string>
+    <string name="nama">Heinrich Radhitya Gavrilla Atmaja</string>
+    <string name="nim">23/516772/SV/22713</string>
+    <array name="jenis_tiket">
+        <item>First Class Ticket</item>
+        <item>Business Class Ticket</item>
+        <item>Economy Class Ticket</item>
+    </array>
+
+</resources>
